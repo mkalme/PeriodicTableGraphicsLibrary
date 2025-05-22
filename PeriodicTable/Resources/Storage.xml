@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<table cellWidth="85" cellHeight="105">
+	<row order="1">
+    <elem color="#ECFF91" spacer="5">
+      <attribute name="Atomic Mass" font="Segoe UI;9"      padding="0.06; 0.06" >55.845</attribute>
+      <attribute name="Energy"      font="Segoe UI;7"      padding="0.07; 0.23" >762.5</attribute>
+      <attribute name="Symbol"      font="Segoe UI;23"     padding="0.03; 0.30" >Fe</attribute>
+      <attribute name="Name"        font="Segoe UI;9;Bold" padding="0.06; 0.65" >Iron</attribute>
+      <attribute name="Electron C"  font="Segoe UI;7"      padding="0.06; 0.82" >[Ar] 3d\u2076 4s\u00B2</attribute>
+      
+      <attribute name="Atomic Num"  font="Segoe UI;15"     padding="0.63; 0.01"  alignment="Far">26</attribute>
+      <attribute name="Electroneg"  font="Segoe UI;7"      padding="0.38; 0.23" >1.83</attribute>
+      <attribute name="Oxs. State"  font="Segoe UI;7"      padding="0.75; 0.28" >+6\n+4\n+3\n+2\n+1\n***</attribute>
+    </elem>
+	</row>
+</table>

@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeriodicTableGraphicsLibrary", "PeriodicTableGraphicsLibrary\PeriodicTableGraphicsLibrary.csproj", "{C9AD3A3A-AEAE-4F24-8A9C-5A5319D90973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeriodicTableConstructorLibrary", "..\PeriodicTableConstructorLibrary\PeriodicTableConstructorLibrary\PeriodicTableConstructorLibrary.csproj", "{49206473-C81E-4915-A2D2-1880FD197C64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeriodicTable", "PeriodicTable\PeriodicTable.csproj", "{F25B19DE-8B07-4C67-914C-923D6A87E04B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9AD3A3A-AEAE-4F24-8A9C-5A5319D90973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9AD3A3A-AEAE-4F24-8A9C-5A5319D90973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9AD3A3A-AEAE-4F24-8A9C-5A5319D90973}.Debug|x64.ActiveCfg = Debug|x64
+		{C9AD3A3A-AEAE-4F24-8A9C-5A5319D90973}.Debug|x64.Build.0 = Debug|x64
+		{C9AD3A3A-AEAE-4F24-8A9C-5A5319D90973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9AD3A3A-AEAE-4F24-8A9C-5A5319D90973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9AD3A3A-AEAE-4F24-8A9C-5A5319D90973}.Release|x64.ActiveCfg = Release|x64
+		{C9AD3A3A-AEAE-4F24-8A9C-5A5319D90973}.Release|x64.Build.0 = Release|x64
+		{49206473-C81E-4915-A2D2-1880FD197C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49206473-C81E-4915-A2D2-1880FD197C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49206473-C81E-4915-A2D2-1880FD197C64}.Debug|x64.ActiveCfg = Debug|x64
+		{49206473-C81E-4915-A2D2-1880FD197C64}.Debug|x64.Build.0 = Debug|x64
+		{49206473-C81E-4915-A2D2-1880FD197C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49206473-C81E-4915-A2D2-1880FD197C64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49206473-C81E-4915-A2D2-1880FD197C64}.Release|x64.ActiveCfg = Release|x64
+		{49206473-C81E-4915-A2D2-1880FD197C64}.Release|x64.Build.0 = Release|x64
+		{F25B19DE-8B07-4C67-914C-923D6A87E04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25B19DE-8B07-4C67-914C-923D6A87E04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F25B19DE-8B07-4C67-914C-923D6A87E04B}.Debug|x64.ActiveCfg = Debug|x64
+		{F25B19DE-8B07-4C67-914C-923D6A87E04B}.Debug|x64.Build.0 = Debug|x64
+		{F25B19DE-8B07-4C67-914C-923D6A87E04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F25B19DE-8B07-4C67-914C-923D6A87E04B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F25B19DE-8B07-4C67-914C-923D6A87E04B}.Release|x64.ActiveCfg = Release|x64
+		{F25B19DE-8B07-4C67-914C-923D6A87E04B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DCCD1E1-BF19-438F-A8E2-E891C9C9286C}
+	EndGlobalSection
+EndGlobal
